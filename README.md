@@ -40,8 +40,6 @@ Feel free to explore, shop, and stay in style with Fashion X. If you have any qu
 
 Happy Shopping! 🛍️
 
-## Video
-https://www.linkedin.com/posts/28brana_mernstack-react-redux-activity-6899951292605628416-Vc3e?utm_source=share&utm_medium=member_desktop
 
 ## Available Scripts
 
